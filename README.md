@@ -2,7 +2,7 @@
 
 End-to-end marketing analytics project on Google BigQuery: from raw event and order data to an executive dashboard, covering funnel analysis, channel attribution, customer segmentation, cohort retention, and a predictive model — built entirely in SQL.
 
-![Dashboard](dashboard/dashboard_screenshot.png)
+![Dashboard](dashboard_screenshot.png)
 
 🔗 **[Live dashboard (Looker Studio)](ADD_YOUR_LINK_HERE)**
 
